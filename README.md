@@ -14,7 +14,7 @@ Finance Tracking is an Android app for keeping receipts, recording expenses, and
 
 ## Install or update
 
-Open [the latest release](https://github.com/0Shard/finance-tracking-releases/releases/latest) and download its `.apk` file. Open it on your Android phone and approve installation. Android may first ask you to allow installation from the app opening the file.
+[Download the latest APK](https://github.com/0Shard/finance-tracking-releases/releases/latest/download/Finance-Tracking.apk), or browse [all releases](https://github.com/0Shard/finance-tracking-releases/releases). Open it on your Android phone and approve installation. Android may first ask you to allow installation from the app opening the file.
 
 Requires Android 8.0 or newer. To update, install the new APK over the existing app. Do not uninstall first: your saved receipts and settings remain in place during an update.
 
